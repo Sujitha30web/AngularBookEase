@@ -1,0 +1,12 @@
+img{
+    height: 300px;
+    width: 400px;
+    border-radius: 30px;
+}
+img:hover{
+  box-shadow:1px 1px 7px 7px rgb(182, 181, 181);
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+}
